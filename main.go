@@ -29,7 +29,7 @@ func copyFile(src, dst string) error {
 	}
 
 	info, err := os.Stat(src)
-	if err !- nil{
+	if err != nil{
 		return err
 	}
 
