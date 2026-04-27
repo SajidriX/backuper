@@ -24,6 +24,11 @@ You compiled it! Good!
 2. Enter: backup <path_to_file_or_dir>
 3.Wait
 
+==== EXAMPLE ====
+./main ~/.config/starship.toml
+Backup created: /home/sajison/backups/starship.toml_2026-04-27_11-05-45
+
+
 Now you know how to use it! Cool!
 
 ===== FEATURES =====
